@@ -36,7 +36,6 @@ If you’re looking for someone to brainstorm, build, or just geek out over tech
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=cobrasanjay1\&theme=tokyonight)
 
 
 ### ✍️ Random Dev Quote
