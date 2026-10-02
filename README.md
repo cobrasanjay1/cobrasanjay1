@@ -1,43 +1,161 @@
-# 🚀 About Me  
+# 👋 Hey, I'm Sanjay
 
-Hey there! I'm not just a tech enthusiast—I’m a **technology explorer** on a mission to build, break, and innovate across the realms of **AI**, **cybersecurity**, **cryptography**, **blockchain**, **app development**, **web development**, and **coding**.  
+### `Software Engineer • Full-Stack Developer • Cybersecurity Enthusiast • Builder`
 
+I’m a Computer Science engineer who enjoys turning ideas into real, deployed systems.
 
-## 🌟 What I’m Working On  
+I work across **full-stack development, cloud infrastructure, automation, cybersecurity, AI, and developer tooling**. I like understanding how systems work from the application layer all the way down to the infrastructure supporting them.
 
-- **Artificial Intelligence**: Designing smarter systems and unraveling the magic of machine learning.  
-- **Cybersecurity & Cryptography**: Building fortresses in the digital world and mastering the art of secure communication.  
-- **Blockchain**: Exploring decentralized innovations, smart contracts, and the future of Web3.  
-- **App & Web Development**: Breathing life into ideas through user-friendly, scalable applications.  
+> **Build it. Break it. Understand it. Make it better.** 🚀
 
+---
 
-## 💡 Let’s Collaborate  
+## 🧑‍💻 About Me
 
-- **AI Wizardry**: Let’s solve complex challenges with innovative AI solutions.  
-- **Blockchain Adventures**: From decentralized apps to smart contracts, I’m ready to dive in.  
-- **Cybersecurity Expertise**: Let’s build systems that hackers fear.  
-- **Code Battles**: Love tackling tough coding challenges and creating clean, efficient code.  
+* 🎓 B.Tech Computer Science graduate
+* 💻 Full-stack developer building production-ready web and mobile applications
+* ☁️ Interested in cloud infrastructure, DevOps, deployment, and distributed systems
+* 🔐 Exploring cybersecurity, networking, cryptography, and offensive security
+* 🤖 Experimenting with AI, automation, bots, and intelligent systems
+* 📱 Building Android and Flutter applications
+* 🌐 Experienced with modern JavaScript/TypeScript ecosystems and backend development
+* 🐧 Linux enthusiast
+* 🛠️ I enjoy deploying, debugging, optimizing, and sometimes breaking things just to understand them
 
-
-
-## 🔗 Connect with Me  
-
-If you’re looking for someone to brainstorm, build, or just geek out over technology with, I’m your person. Let’s make something incredible together! 🚀
-
-
+---
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/XDbY8TkQ) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/cobrasanjay) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cobravibr) [![Telegram](https://img.shields.io/badge/Telegram-%2300AFF1.svg?logo=telegram&logoColor=white)](https://t.me/cobrasanjay)
 
-# 💻 Tech Stack:
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+# 🧰 Tech Stack
 
-# 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cobrasanjay1&theme=tokyonight)](https://git.io/streak-stats)
+### Languages
 
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Frontend
 
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
+</p>
+
+### Backend & Database
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+</p>
+
+### Cloud & DevOps
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40"/>
+</p>
+
+### Tools & Platforms
+
+`Git` `GitHub` `Docker` `Linux` `AWS` `Cloudflare` `Vercel` `Render` `Supabase` `Neon` `n8n` `Figma`
+
+---
+
+# 🧠 Currently Exploring
+
+```text
+Artificial Intelligence
+        │
+        ├── Machine Learning
+        ├── AI Applications
+        └── Intelligent Automation
+
+Cybersecurity
+        │
+        ├── Network Security
+        ├── Web Security
+        ├── Cryptography
+        └── Offensive Security
+
+Cloud
+        │
+        ├── Infrastructure
+        ├── Containers
+        ├── CI/CD
+        └── Distributed Systems
+```
+
+I'm continuously learning and experimenting rather than limiting myself to a single technology stack.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cobrasanjay1&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobrasanjay1&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cobrasanjay1&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/cobrasanjay1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/cobravibr">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://t.me/cobrasanjay">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://reddit.com/user/cobrasanjay">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Philosophy
+
+> **"Don't just use technology. Understand how it works."**
+
+I believe the best way to learn technology is to build something with it, break it, debug it, and rebuild it better.
+
+Whether it's a web application, cloud infrastructure, security system, automation workflow, or completely random idea...
+
+**I'm always building something.** 🚀
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b>
+  <br/>
+  <sub>Build • Break • Learn • Repeat</sub>
+</p>
