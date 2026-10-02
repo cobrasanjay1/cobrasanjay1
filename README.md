@@ -22,15 +22,15 @@ I work across **full-stack development, cloud infrastructure, automation, cybers
 * 🐧 Linux enthusiast
 * 🛠️ I enjoy deploying, debugging, optimizing, and sometimes breaking things just to understand them
 
----
-
-
-
 # 🧰 Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="25%">
 
 ### Languages
 
-<p align="left">
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
@@ -39,9 +39,13 @@ I work across **full-stack development, cloud infrastructure, automation, cybers
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
 </p>
 
+</td>
+
+<td valign="top" width="25%">
+
 ### Frontend
 
-<p align="left">
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
@@ -49,9 +53,13 @@ I work across **full-stack development, cloud infrastructure, automation, cybers
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
 </p>
 
+</td>
+
+<td valign="top" width="25%">
+
 ### Backend & Database
 
-<p align="left">
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40"/>
@@ -60,9 +68,13 @@ I work across **full-stack development, cloud infrastructure, automation, cybers
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
 </p>
 
+</td>
+
+<td valign="top" width="25%">
+
 ### Cloud & DevOps
 
-<p align="left">
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
@@ -71,11 +83,9 @@ I work across **full-stack development, cloud infrastructure, automation, cybers
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40"/>
 </p>
 
-### Tools & Platforms
-
-`Git` `GitHub` `Docker` `Linux` `AWS` `Cloudflare` `Vercel` `Render` `Supabase` `Neon` `n8n` `Figma`
-
----
+</td>
+</tr>
+</table>
 
 # 🧠 Currently Exploring
 
